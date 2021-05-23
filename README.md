@@ -1,6 +1,7 @@
 # Kickstarter Data Organizing and Analysis in Excel
 
-### Objective: Analyze a dataset consisting of 4,000 crowdfunding projects to discover hidden trends using formulae, create charts and tables, and interpret the data in Excel.
+## Objective: 
+Analyze a dataset consisting of 4,000 crowdfunding projects to discover hidden trends using formulae, create charts and tables, and interpret the data in Excel.
   
 * Sheet 1- Cover sheet
 * Sheet 2- Kickstarter data set with conditional formatting with 3-color scale for "state" of the project, new columns created using formulae- 
