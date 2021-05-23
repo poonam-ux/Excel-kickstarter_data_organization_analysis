@@ -17,4 +17,10 @@
 * Sheet 7- Deeper Analysis (bonus activities): sort projects depending on their goal values, with ability to tell their percentage of success for a specific year. The sheet includes a chart to represent this new data.
 * Sheet 8- Statistical Table and Analysis (bonus activity 2)- evaluate data to determine if its meaningful, and what values better help user to make a decision.
 
-![](https://github.com/poonam-ux/Excel-kickstarter_data_organization_analysis/blob/main/Kickstarter_Data_Organizing_Analysis_and_Visualization.pdf) 
+![](https://github.com/poonam-ux/Excel-kickstarter_data_organization_analysis/blob/main/visualizations/Excel_kickstarter_viz1.png)
+
+![](https://github.com/poonam-ux/Excel-kickstarter_data_organization_analysis/blob/main/visualizations/Excel_kickstarter_viz2.png)
+
+![](https://github.com/poonam-ux/Excel-kickstarter_data_organization_analysis/blob/main/visualizations/Excel_kickstarter_viz3.png)
+
+![](https://github.com/poonam-ux/Excel-kickstarter_data_organization_analysis/blob/main/visualizations/Excel_kickstarter_viz4.png)
