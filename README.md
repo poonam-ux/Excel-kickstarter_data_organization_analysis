@@ -1,7 +1,12 @@
 # Kickstarter Data Organizing and Analysis in Excel
 
+## Background:
+Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
+
+Getting funded on Kickstarter requires meeting or exceeding the project’s initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success.
+
 ## Objective: 
-Analyze a dataset consisting of 4,000 crowdfunding projects to discover hidden trends using formulae, create charts and tables, and interpret the data in Excel.
+Modify and analyze a dataset consisting of 4,000 crowdfunding projects to uncover hidden trends, create charts and tables, and interpret the data in Excel.
   
 * Sheet 1- Cover sheet
 * Sheet 2- Kickstarter data set with conditional formatting with 3-color scale for "state" of the project, new columns created using formulae- 
