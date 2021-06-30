@@ -42,6 +42,6 @@ Analyze a dataset consisting of 4,000 crowdfunding projects to uncover hidden tr
 ![](https://github.com/poonam-ux/Excel-kickstarter_data_organization_analysis/blob/main/visualizations/Excel_kickstarter_viz4.png)
 
 ## Limitations of dataset: 
-* The dataset includes some projects that had a very low goal but a high pledged amount. These are the outliers for Percentage Funded. 
+* The dataset includes some projects that had a very low goal amount but a high pledged amount. These are the outliers for Percentage Funded. 
 * Some of the categories/sub-categories don't have projects in all years/months, so there is no continuous relationship over the time. 
 * One third of the projects come from a single category- theater. So, it limits the span of categories to choose from. 
